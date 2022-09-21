@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: #2f3035;
+    background-image:url(image/bg1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+header {
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 118px;
+  text-align: center;
+}
+main{
+  height: 400px;
+  padding-top: 80px;
+  padding-left: 240px;
+  padding-right: 240px;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+main h1{
+  color: white;
+  text-align: center;
+  word-spacing: 20px;
+  text-decoration: underline;
+
+}
+a{
+  color: white;
+  font-size: 20px;
+}
